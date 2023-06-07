@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/buscador-cursos/src" isTestSource="false" packagePrefix="Danilobronze\BuscarCursos\" />
+      <excludeFolder url="file://$MODULE_DIR$/buscador-cursos/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/buscador-cursos/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/buscador-cursos/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/buscador-cursos/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/buscador-cursos/vendor/masterminds/html5" />
+      <excludeFolder url="file://$MODULE_DIR$/buscador-cursos/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/buscador-cursos/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/buscador-cursos/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/buscador-cursos/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/buscador-cursos/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/buscador-cursos/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/buscador-cursos/vendor/symfony/dom-crawler" />
+      <excludeFolder url="file://$MODULE_DIR$/buscador-cursos/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/buscador-cursos/vendor/symfony/polyfill-mbstring" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
